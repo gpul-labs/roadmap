@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/gpul-org/labs-roadmap.png?label=ready&title=Ready)](https://waffle.io/gpul-org/labs-roadmap)
 GPUL Labs
 =========
 Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a trabajar en el mundo real con tecnologías modernas y en un proyecto totalmente Software Libre!
