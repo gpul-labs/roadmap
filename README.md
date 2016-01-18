@@ -46,7 +46,7 @@ Crearemos ramas y aprenderemos el flujo habitual de trabajo en un proyecto con G
 
 *Fecha por definir*
 
-Todo proyecto necesita planificación por lo que nosotros haremos lo mismo valiéndonos de metodologías ágiles y creando tareas para nuestro proyecto y parándolo para que cualquiera pueda contribuir.
+Todo proyecto necesita planificación por lo que nosotros haremos lo mismo valiéndonos de metodologías ágiles y creando tareas para nuestro proyecto y preparándolo para que cualquiera pueda contribuir.
 
 ####<a name="semana4">**Django Framework**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-sin%20ponente-red.svg)]()
