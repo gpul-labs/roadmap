@@ -19,7 +19,7 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
 ## <a name="actividades">Programación de actividades</a>
 
 ####<a name="semana0">**Introducción a Python, Git y GitHub**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 *Fecha por definir*
 
@@ -35,14 +35,14 @@ Además haremos una pequeña intro en la que mostrar cómo funciona una Raspberr
 Aprenderemos a crear un sencillo programa para leer un sensor a través de los puertos GPIO de una Raspberry Pi
 
 ####<a name="semana2">**Git avanzado y code review**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-sin%20ponente-red.svg)]()
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 *Fecha por definir*
 
 Crearemos ramas y aprenderemos el flujo habitual de trabajo en un proyecto con Git, haremos pull requests y aprenderemos la importancia de hacer code review.
 
 ####<a name="semana3">**Scrum/metodologías ágiles**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-sin%20ponente-red.svg)]()
+[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
 
 *Fecha por definir*
 
