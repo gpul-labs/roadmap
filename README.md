@@ -6,29 +6,29 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
 
 ## Contenidos
 * [Programación de actividades](#actividades)
-  * [Python, Git y Github - Fecha por definir](#semana0)
-  * [Programando una Raspberry - Fecha por definir](#semana1)
-  * [Git avanzado y code review - Fecha por definir](#semana2)
-  * [Scrum/metodologías ágiles - Fecha por definir](#semana3)
-  * [Django Framework - Fecha por definir](#semana4)
-  * [APIs REST - Fecha por definir](#semana5)
-  * [ReactJS - Fecha por definir](#semana6)
+  * [Python, Git y Github](#semana0)
+  * [Programando una Raspberry](#semana1)
+  * [Git avanzado y code review](#semana2)
+  * [Scrum/metodologías ágiles](#semana3)
+  * [Django Framework](#semana4)
+  * [APIs REST](#semana5)
+  * [ReactJS](#semana6)
 * [Estructura de las actividades](#estructura)
 * [Cómo colaborar](#colaborar)
 
 ## <a name="actividades">Programación de actividades</a>
 
-####<a name="semana0">**Introducción a Python, Git y GitHub**</a>
+####<a name="semana0">**[Introducción a Python, Git y GitHub](https://www.gpul.org/indico/conferenceDisplay.py?confId=28)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-*Fecha por definir*
+**Fran Rúa y Breixo Camiña**
+
+*10/2/2016 - 17:30*
 
 En esta charla haremos una pequeña intro a Python aprendiendo los conceptos básicos y haciendo una pequeña aplicación que meteremos en un repositorio Git, crearemos una cuenta en GitHub y subiremos los cambios, aprendiendo los conceptos básicos para todo ello.
 
-Además haremos una pequeña intro en la que mostrar cómo funciona una Raspberry, ver que simplemente es un miniordenador donde puedes hasta ejecutar la aplicación que acabas de programar.
-
 ####<a name="semana1">**Programando una Raspberry**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 *Fecha por definir*
 
