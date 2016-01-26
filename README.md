@@ -23,28 +23,34 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
 
 **Fran Rúa y Breixo Camiña**
 
-*10/2/2016 - 17:30*
+*10/02/2016 - 17:30*
 
 En esta charla haremos una pequeña intro a Python aprendiendo los conceptos básicos y haciendo una pequeña aplicación que meteremos en un repositorio Git, crearemos una cuenta en GitHub y subiremos los cambios, aprendiendo los conceptos básicos para todo ello.
 
 ####<a name="semana1">**Programando una Raspberry**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-*Fecha por definir*
+**Javier Vila**
+
+*17/02/2016 - 17:30* *fecha por confirmar
 
 Aprenderemos a crear un sencillo programa para leer un sensor a través de los puertos GPIO de una Raspberry Pi
 
 ####<a name="semana2">**Git avanzado y code review**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-*Fecha por definir*
+**Pepe Doval**
+
+*24/02/2016 - 17:00* *fecha por confirmar
 
 Crearemos ramas y aprenderemos el flujo habitual de trabajo en un proyecto con Git, haremos pull requests y aprenderemos la importancia de hacer code review.
 
 ####<a name="semana3">**Scrum/metodologías ágiles**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-*Fecha por definir*
+**Carlos García**
+
+*03/03/2016 - 17:30* *fecha por confirmar
 
 Todo proyecto necesita planificación por lo que nosotros haremos lo mismo valiéndonos de metodologías ágiles y creando tareas para nuestro proyecto y preparándolo para que cualquiera pueda contribuir.
 
