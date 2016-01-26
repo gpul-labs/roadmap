@@ -39,7 +39,7 @@ Aprenderemos a crear un sencillo programa para leer un sensor a través de los p
 ####<a name="semana2">**[Git avanzado y code review](https://www.gpul.org/indico/conferenceDisplay.py?confId=30)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-**Pepe Doval**
+**José Doval**
 
 *24/02/2016 - 17:00*
 
