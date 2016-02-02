@@ -13,6 +13,7 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
   * [Django Framework](#semana4)
   * [APIs REST](#semana5)
   * [ReactJS](#semana6)
+* [Comunidad (Preguntas y respuestas)](#comunidad)
 * [Estructura de las actividades](#estructura)
 * [Cómo colaborar](#colaborar)
 
@@ -77,6 +78,11 @@ Aprovechando las APIs REST creadas en la anterior sesión, aprenderemos los conc
 
 
 [Ver material y videos](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
+
+## <a name="comunidad">Comunidad (Preguntas y respuestas)</a>
+Si quieres participar en el desarrollo es posible que te surjan dudas sobre el código o el proyecto, es por eso por lo que hemos creado un lugar de preguntas y respuestas al stilo stack overflow para los GPUL Labs ;)
+
+[Ir a la web](https://forums.gpul.org/)
 
 ## <a name="estructura">Estructura de las actividades</a>
 Ya que en la vida real te vas a tener que enfrentar a los problemas de forma práctica y no escuchando a un ponente, queremos que todas las actividades sean eminentemente prácticas.
