@@ -80,7 +80,7 @@ Aprovechando las APIs REST creadas en la anterior sesión, aprenderemos los conc
 [Ver material y videos](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
 
 ## <a name="comunidad">Comunidad (Preguntas y respuestas)</a>
-Si quieres participar en el desarrollo es posible que te surjan dudas sobre el código o el proyecto, es por eso por lo que hemos creado un lugar de preguntas y respuestas al stilo stack overflow para los GPUL Labs ;)
+Si quieres participar en el desarrollo es posible que te surjan dudas sobre el código o el proyecto, es por eso por lo que hemos creado un lugar de preguntas y respuestas al estilo *Stack Overflow* para los GPUL Labs ;)
 
 [Ir a la web](https://forums.gpul.org/)
 
