@@ -51,7 +51,7 @@ Crearemos ramas y aprenderemos el flujo habitual de trabajo en un proyecto con G
 
 **Carlos García**
 
-*03/03/2016 - 17:30*
+*02/03/2016 - 17:30*
 
 Todo proyecto necesita planificación por lo que nosotros haremos lo mismo valiéndonos de metodologías ágiles y creando tareas para nuestro proyecto y preparándolo para que cualquiera pueda contribuir.
 
