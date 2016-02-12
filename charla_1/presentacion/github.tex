@@ -1,0 +1,189 @@
+\section{Repositorio remoto: GitHub}
+
+% Funcionamento e uso de un CVS: Git
+\title[Git e GitHub]{Repositorio remoto: GitHub}
+\author[Fran Rúa e Breixo Camiña]{}
+
+\begin{frame}
+  \titlepage
+  \begin{figure}[H]
+    \centering
+    \label{fig:github}
+    \includegraphics[scale=.4]{github}
+  \end{figure}
+\end{frame}
+
+\begin{frame}[fragile]
+  Existen varios repositorios remotos, como poden ser \textbf{Bitbucket de Atlassian},
+  \textbf{GitLab de GitLab Inc.}, ... Pero o máis extendido e o que conta coa maior
+  comunidade é GitHub. GitHub conta con milleiros de proxectos, dende o código
+  que estamos a subir nós agora ata o código fonte do kernel de Linux.
+  \begin{multicols}{2}
+    \begin{figure}
+      \includegraphics[scale=0.1]{bitbucket}
+    \end{figure}
+    \columnbreak
+    \begin{figure}
+      \includegraphics[scale=0.1]{gitlab}
+    \end{figure}
+  \end{multicols}
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Repositorio remoto}
+  \scriptsize
+  Para crear o noso repositorio remoto, antes crearemos unha conta en GitHub. Logo de rexistrarnos, creamos un repositorio novo (New repository). Logo de indicarlle o nome, seguiremos os pasos que nos indican. Como xa temos o noso repositorio creado, con commits xa feitos sobre ficheiros, simplemente executaremos \textbf{git remote add origin https://github.com/BreixoCF/charlagit.git} e posteriormente faremos \textbf{git push -u origin master}.
+  \tiny
+\begin{verbatim}
+	breixocf@BreixoCF ~/Desktop/CharlaGit 19 $ git remote add origin 
+	https://github.com/BreixoCF/charlagit.git
+	breixocf@BreixoCF ~/Desktop/CharlaGit 20 $ git push -u origin master 
+	Username for 'https://github.com': breixocf
+	Password for 'https://breixocf@github.com': 
+	Counting objects: 13, done.
+	Delta compression using up to 4 threads.
+	Compressing objects: 100% (9/9), done.
+	Writing objects: 100% (13/13), 1.14 KiB | 0 bytes/s, done.
+	Total 13 (delta 2), reused 0 (delta 0)
+	To https://github.com/BreixoCF/charlagit.git
+	 * [new branch]      master -> master
+	Branch master set up to track remote branch master from origin.
+\end{verbatim}	
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Octavo comando: git clone}
+  \begin{block}{git clone}
+    O comando git clone serve para clonar un repositorio remoto a local, executando tres pasos nun solo: git init, git remote add e git pull.
+  \end{block}
+  Coñecendo este comando, poderíamos executar cunha sola sentenza o clonado de
+  repositorio da seguinte forma: \textbf{git clone
+    https://github.com/BreixoCF/charlagit.git}.
+    \tiny
+	\begin{verbatim}
+	~ % git clone https://github.com/BreixoCF/charlagit.git
+	Cloning into 'charlagit'...
+	remote: Counting objects: 16, done.
+	remote: Compressing objects: 100% (9/9), done.
+	remote: Total 16 (delta 3), reused 16 (delta 3), pack-reused 0
+	Unpacking objects: 100% (16/16), done.
+	Checking connectivity... done.
+	\end{verbatim}
+\end{frame}
+
+\begin{frame}[fragile]
+  \scriptsize
+  Agora copiaremos este código dunha pila en Python nun ficheiro que chamaremos \textbf{stack.py}:
+  \tiny
+\begin{verbatim}
+	# Implementación de unha pila facendo uso de programacion orientada a obxectos.
+	class Stack:
+	    def __init__(self):
+	        self.items = []
+	
+	    def vacia(self):
+	        return self.items == []
+	
+	    def apilar(self, item):
+	        self.items.append(item)
+	
+	    def cima(self):
+	        if self.vacia():
+	            return []
+	        return self.items[-1]
+	
+	    def desapilar(self):
+	        del self.items[-1]
+	
+	    def tam(self):
+	        return len(self.items)
+\end{verbatim}
+\end{frame}
+
+\begin{frame}[fragile]
+  \normalsize
+  Agora imos a subir o ficheiro ao repositorio de \textbf{GitHub} que acabamos de crear. Para eso, engadimos o ficheiro \textit{stack.py} á zona de preparación (Index) e posteriormente ao repositorio local (HEAD).
+  \tiny 
+  	\begin{verbatim}
+  		breixocf@BreixoCF ~/Desktop/CharlaGit 21 $ git add stack.py 
+  		breixocf@BreixoCF ~/Desktop/CharlaGit 22 $ git commit -m "Engadida a pila OO stack.py"
+  		[master 111365e] Engadida a pila OO stack.py
+  		 1 file changed, 21 insertions(+)
+  		 create mode 100644 stack.py
+  	\end{verbatim}
+  \large
+  \begin{center}
+    \textbf{¿Xa estaría subido ao repositorio remoto?}\\
+    \vspace{1cm}
+    \textbf{\Huge NON}
+  \end{center}
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Noveno comando: git push}
+  \begin{block}{git push}
+    Este comando serve para subir os cambios do repositorio local (HEAD) ao repositorio remoto.
+  \end{block}
+  \scriptsize
+  Se executamos \textbf{git push origin master}, podremos comprobar na web de github que o ficheiro está engadido correctamente.
+  \tiny 
+	\begin{verbatim}
+		breixocf@BreixoCF ~/Desktop/CharlaGit 21 $ git add stack.py 
+		breixocf@BreixoCF ~/Desktop/CharlaGit 22 $ git commit -m "Engadida a pila OO stack.py"
+		[master 111365e] Engadida a pila OO stack.py
+		 1 file changed, 21 insertions(+)
+		 create mode 100644 stack.py
+		breixocf@BreixoCF ~/Desktop/CharlaGit 23 $ git push origin master 
+		Username for 'https://github.com': breixocf
+		Password for 'https://breixocf@github.com': 
+		Counting objects: 4, done.
+		Delta compression using up to 4 threads.
+		Compressing objects: 100% (3/3), done.
+		Writing objects: 100% (3/3), 489 bytes | 0 bytes/s, done.
+		Total 3 (delta 1), reused 0 (delta 0)
+		To https://github.com/BreixoCF/charlagit.git
+		   621a67b..111365e  master -> master
+	\end{verbatim}
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Décimo comando: git fetch}
+  \begin{block}{git fetch}
+    Este comando serve para actualizar o repositorio local respecto o repositorio remoto indicado.
+  \end{block}
+  \tiny
+\begin{verbatim}
+	breixocf@BreixoCF ~/Desktop/CharlaGit 27 $ git fetch origin master
+	From https://github.com/BreixoCF/charlagit
+	 * branch            master     -> FETCH_HEAD
+\end{verbatim}
+	\normalsize
+  Como non hai cambios nos ficheiros non pasaría nada.
+\end{frame}
+
+
+\begin{frame}[fragile]
+  \frametitle{Undécimo comando: git pull}
+  \begin{block}{git pull}
+    Este comando serve para descargar o commit máis novo do repositorio remoto á nosa zona de traballo (workspace).
+  \end{block}
+  \scriptsize
+  Se estivéramos dous ou máis usuarios traballando sobre o mismo repositorio remoto, poderíamos descargarnos os cambios que fixo o outro usuario executando \textbf{git pull origin master}.
+  \tiny 
+	\begin{verbatim}
+	breixocf@BreixoCF ~/Desktop/CharlaGit 24 $ git pull origin master 
+	From https://github.com/BreixoCF/charlagit
+ 	* branch            master     -> FETCH_HEAD
+	Already up-to-date.
+	\end{verbatim}
+	\normalsize
+  Como non hai cambios nos ficheiros non pasaría nada.
+\end{frame}
+
+\begin{frame}
+\Huge
+	\begin{center}
+	Ata aquí por hoxe, pero para a semana máis e mellor!!
+	\end{center}
+\end{frame}
+
