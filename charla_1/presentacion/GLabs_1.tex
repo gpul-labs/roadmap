@@ -1,0 +1,65 @@
+%% Preambulo, paquetes a cargar por compilador latex
+\documentclass[12pt]{beamer}
+\mode<presentation>{
+  % selección de tema y color
+  \usetheme{Copenhagen}
+  \usecolortheme{orchid}
+}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{verbatim}
+\usepackage{url} 
+\usepackage[export]{adjustbox}
+\usepackage{listings}
+\usepackage{tcolorbox}
+\usepackage{tikz}
+\usepackage{cclicenses}
+\usepackage{multicol}
+\lstdefinestyle{mystyle}{
+  basicstyle=\tiny,
+  language=Python
+}
+\lstset{style=mystyle}
+
+%% Automatizar localización de las imágenes
+\graphicspath{{../img/}}
+
+\title{Introdución a Python, Git e Github}
+\author[Fran Rúa/Breixo Camiña]{Fran Rúa \\ Breixo Camiña}
+\institute[GPUL-Labs]{Grupo de Programadores e Usuarios Linux}
+\date{\today}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+  \begin{tcolorbox}[]
+    \centering
+    {\small \bysa}\\
+    {\tiny Esta obra está suxeita á licencia
+      Recoñecemento-CompartirIgual 4.0 Internacional de Creative
+      Commons. Para ver unha copia desta licencia, visite
+      http://creativecommons.org/licenses/by-sa/4.0/.}
+  \end{tcolorbox}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Índice}
+  \tableofcontents
+\end{frame}
+
+\usebackgroundtemplate{%
+  \tikz[overlay,remember picture] 
+  \node[opacity=0.3 , at=(current page.south east),anchor=south east] {
+    \includegraphics[]{logo-labs}};
+}
+
+\input{python.tex}              % introducción a python
+\input{cvs.tex}                 % uso de git
+\input{github.tex}              % coñecendo github
+
+\end{document}
