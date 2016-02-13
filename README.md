@@ -44,6 +44,8 @@ Aprenderemos a crear un sencillo programa para leer un sensor a través de los p
 
 **José Doval**
 
+<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/setpay.png" width="77px" height="22px" />
+
 *24/02/2016 - 17:00*
 
 Crearemos ramas y aprenderemos el flujo habitual de trabajo en un proyecto con Git, haremos pull requests y aprenderemos la importancia de hacer code review.
@@ -52,6 +54,9 @@ Crearemos ramas y aprenderemos el flujo habitual de trabajo en un proyecto con G
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 **Carlos García**
+
+<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/agilegalicia.jpg" width="77px" height="22px" />
+
 
 *02/03/2016 - 17:30*
 
@@ -65,7 +70,7 @@ Todo proyecto necesita planificación por lo que nosotros haremos lo mismo vali�
 Crearemos unha sencilla interfaz web para mostrar nuestros datos.
 
 ####<a name="semana5">**APIs REST**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-sin%20ponente-red.svg)]()
+[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
 
 *Fecha por definir*
 
