@@ -5,6 +5,7 @@
 Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a trabajar en el mundo real con tecnologías modernas y en un proyecto totalmente Software Libre!
 
 ## Contenidos
+* [Registro Premium](#premium)
 * [Programación de actividades](#actividades)
   * [Python, Git y Github](#semana0)
   * [Programando una Raspberry](#semana1)
@@ -16,6 +17,16 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
 * [Comunidad (Preguntas y respuestas)](#comunidad)
 * [Estructura de las actividades](#estructura)
 * [Cómo colaborar](#colaborar)
+
+## <a name="premium">Registro Premium</a>
+- Sitio reservado permanente.
+- Diploma de asistencia y seguimiento del trabajo.
+- Camiseta GPUL Labs.
+- Vinilo + Pegatina de GPUL.
+- Carpeta e libreta de GPUL
+- Pegatinas de proyectos a escoger.
+
+[![Premium badge](https://img.shields.io/badge/-Ser%20Premium-blue.svg?link=https://img.shields.io/badge/-Ser%20Premium-blue.svg)](https://www.gpul.org/indico/conferenceDisplay.py?confId=27)
 
 ## <a name="actividades">Programación de actividades</a>
 
