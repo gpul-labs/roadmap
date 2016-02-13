@@ -28,6 +28,8 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
 
 En esta charla haremos una pequeña intro a Python aprendiendo los conceptos básicos y haciendo una pequeña aplicación que meteremos en un repositorio Git, crearemos una cuenta en GitHub y subiremos los cambios, aprendiendo los conceptos básicos para todo ello.
 
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
+
 ####<a name="semana1">**[Programando una Raspberry](https://www.gpul.org/indico/conferenceDisplay.py?confId=29)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
