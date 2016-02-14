@@ -48,7 +48,9 @@ En esta charla haremos una pequeña intro a Python aprendiendo los conceptos bá
 
 *17/02/2016 - 17:30*
 
-Aprenderemos a crear un sencillo programa para leer un sensor a través de los puertos GPIO de una Raspberry Pi
+Impartida por Javier Vila, socio de la Free Software Foundation, webmaster de gnu.org, miembro de tecnólogos creativos de Raspberry Pi y gran defensor del software libre.
+
+Aprenderemos a crear un sencillo programa en Python y a usar sus librerías para comunicarse con leds y sensores a través de los puertos GPIO de una Raspberry Pi.
 
 ####<a name="semana2">**[Git avanzado y code review](https://www.gpul.org/indico/conferenceDisplay.py?confId=30)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
@@ -58,6 +60,8 @@ Aprenderemos a crear un sencillo programa para leer un sensor a través de los p
 <img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/setpay.png" width="77px" height="22px" />
 
 *24/02/2016 - 17:00*
+
+Charla impartida por José Doval, Senior Backend Developer en SetPay, una de las startups mas punteras del panorama tecnológico de nuestra comunidad.
 
 Crearemos ramas y aprenderemos el flujo habitual de trabajo en un proyecto con Git, haremos pull requests y aprenderemos la importancia de hacer code review.
 
@@ -70,6 +74,9 @@ Crearemos ramas y aprenderemos el flujo habitual de trabajo en un proyecto con G
 
 
 *02/03/2016 - 17:30*
+
+Impartida por Carlos García, Full Stack Developer, amante de las metodologías ágiles de desarrollo, emprendedor y socio fundador de Popsports Apps.
+
 
 Todo proyecto necesita planificación por lo que nosotros haremos lo mismo valiéndonos de metodologías ágiles y creando tareas para nuestro proyecto y preparándolo para que cualquiera pueda contribuir.
 
