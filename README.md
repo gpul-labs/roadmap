@@ -73,7 +73,7 @@ Crearemos ramas y aprenderemos el flujo habitual de trabajo en un proyecto con G
 <img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/agilegalicia.jpg" width="77px" height="22px" />
 
 
-*02/03/2016 - 17:30*
+*02/03/2016 - 18:00*
 
 Impartida por Carlos García, Full Stack Developer, amante de las metodologías ágiles de desarrollo, emprendedor y socio fundador de Popsports Apps.
 
@@ -81,16 +81,16 @@ Impartida por Carlos García, Full Stack Developer, amante de las metodologías 
 Todo proyecto necesita planificación por lo que nosotros haremos lo mismo valiéndonos de metodologías ágiles y creando tareas para nuestro proyecto y preparándolo para que cualquiera pueda contribuir.
 
 ####<a name="semana4">**Django Framework**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-sin%20ponente-red.svg)]()
+[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
 
-*Fecha por definir*
+*09/03/2016 - 18:00*
 
 Crearemos unha sencilla interfaz web para mostrar nuestros datos.
 
 ####<a name="semana5">**APIs REST**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
 
-*Fecha por definir*
+*16/03/2016 - 18:00*
 
 Aprenderemos conceptos básicos de APIs REST y crearemos la nuestra propia para el proyecto.
 
