@@ -96,6 +96,7 @@ Crearemos unha sencilla interfaz web para mostrar nuestros datos.
 Aprenderemos conceptos básicos de APIs REST y crearemos la nuestra propia para el proyecto.
 
 ####<a name="semana6">**1º Hackathon**</a>
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 *Fecha por definir*
 
