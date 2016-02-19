@@ -13,7 +13,8 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
   * [Scrum/metodologías ágiles](#semana3)
   * [Django Framework](#semana4)
   * [APIs REST](#semana5)
-  * [ReactJS](#semana6)
+  * [1º Hackathon](#semana6)
+  * [ReactJS](#semana7)
 * [Comunidad (Preguntas y respuestas)](#comunidad)
 * [Estructura de las actividades](#estructura)
 * [Cómo colaborar](#colaborar)
@@ -94,7 +95,13 @@ Crearemos unha sencilla interfaz web para mostrar nuestros datos.
 
 Aprenderemos conceptos básicos de APIs REST y crearemos la nuestra propia para el proyecto.
 
-####<a name="semana6">**React JS**</a>
+####<a name="semana6">**1º Hackathon**</a>
+
+*Fecha por definir*
+
+Y después de tanta teoría pasaremos a la práctica con un hackathon en el que crearemos equipos, definiremos tareas a realizar y cada grupo se encargará de una parte pequeña del desarrollo del proyecto durante este día.
+
+####<a name="semana7">**React JS**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
 
 *Fecha por definir*
