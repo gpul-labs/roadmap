@@ -81,19 +81,27 @@ Impartida por Carlos García, Full Stack Developer, amante de las metodologías 
 
 Todo proyecto necesita planificación por lo que nosotros haremos lo mismo valiéndonos de metodologías ágiles y creando tareas para nuestro proyecto y preparándolo para que cualquiera pueda contribuir.
 
-####<a name="semana4">**Django Framework**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
+####<a name="semana4">**[Django Framework](https://www.gpul.org/indico/conferenceDisplay.py?confId=32)**</a>
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
+
+**Uxío Fuentefría**
 
 *09/03/2016 - 18:00*
 
-Crearemos unha sencilla interfaz web para mostrar nuestros datos.
+Uxío es ingeniero de software en Trileuco Solutions y también ha trabajado como formador de Python en Academia Postal.
 
-####<a name="semana5">**APIs REST**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
+En esta charla aprenderemos los conceptos básicos para crear una sencilla interfaz web con Django, el framework web por excelencia en Python, con el fin de poder mostrar los datos que obtengamos de forma sencilla.
+
+####<a name="semana5">**[APIs REST](https://www.gpul.org/indico/conferenceDisplay.py?confId=33)**</a>
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
+
+**Alejo Pacín**
 
 *16/03/2016 - 18:00*
 
-Aprenderemos conceptos básicos de APIs REST y crearemos la nuestra propia para el proyecto.
+Alejo es Software Engineer en Softtek, trabajando con todo tipo de tecnologías y con experiencia en el desarrollo de servicios web y APIs REST.
+
+Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que existen y veremos cómo podemos crear la nuestra propia para el proyecto, utilizando Django Rest Framework.
 
 ####<a name="semana6">**1º Hackathon**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
