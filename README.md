@@ -88,7 +88,7 @@ Todo proyecto necesita planificación por lo que nosotros haremos lo mismo vali�
 
 *09/03/2016 - 18:00*
 
-Uxío es ingeniero de software en Trileuco Solutions y también ha trabajado como formador de Python en Academia Postal.
+Uxío es ingeniero de software ha trabajado como formador de Python en Academia Postal.
 
 En esta charla aprenderemos los conceptos básicos para crear una sencilla interfaz web con Django, el framework web por excelencia en Python, con el fin de poder mostrar los datos que obtengamos de forma sencilla.
 
