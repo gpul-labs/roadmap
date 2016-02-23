@@ -53,6 +53,8 @@ Impartida por Javier Vila, socio de la Free Software Foundation, webmaster de gn
 
 Aprenderemos a crear un sencillo programa en Python y a usar sus librerías para comunicarse con leds y sensores a través de los puertos GPIO de una Raspberry Pi.
 
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
+
 ####<a name="semana2">**[Git avanzado y code review](https://www.gpul.org/indico/conferenceDisplay.py?confId=30)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
