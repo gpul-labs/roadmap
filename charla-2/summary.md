@@ -15,7 +15,7 @@ Resumen del Taller/Charla de [@ResonantWave](https://github.com/ResonantWave) en
 
 ## 1.1 Instalación del sistema operativo (Raspbian)
 
-Descargar la imagen oficial de [Raspbian](https://www.raspberrypi.org/downloads/raspbian/). Una vez descargada la imagen  se pueden realizar los pasos de instalación desde un terminal:
+Descargar la imagen oficial de [Raspbian](https://www.raspberrypi.org/downloads/raspbian/). Una vez descargada la imagen se pueden realizar los pasos de instalación desde un terminal:
 ```
 # Descomprimir imagen
 ~$ unzip 2016-02-09-raspbian-jessie.zip
@@ -31,10 +31,9 @@ El proceso de escritura puede llevar varios minutos.
 
 ## 1.2 Configuración de red
 
-Para acceder al sistema de la Rasberry desde el portátil por [SSH](https://en.wikipedia.org/wiki/Secure_Shell) se puede configurar una conexión compartida entre el equipo y la RaspberryPi. NetworkManager permite agregar nueva conexión de red cableada y a continuación, en la pestaña "Ajustes de IPv4" seleccionar el método "Compartida con otros equipos".
+Para acceder al sistema de la Rasberry desde el portátil por [SSH](https://en.wikipedia.org/wiki/Secure_Shell) se puede configurar una conexión compartida entre el equipo y la Raspberry Pi. NetworkManager permite agregar nueva conexión de red cableada y a continuación, en la pestaña "Ajustes de IPv4" seleccionar el método "Compartida con otros equipos".
 
 La IP de la tarjeta de red de la placa se configurará automáticamente a través del protocolo DHCP en cuanto conectemos el cable de red al portátil. Para conocer la IP que se le ha asignado, ejecutar en terminal la siguiente línea de comandos:
-Para detectar la IP que se ha asignado a la placa se puede consultar ejecutando en consola el siguiente comando:
 ```
 $ sudo tail -f /var/log/syslog
 ```
@@ -52,7 +51,7 @@ En caso de no encontrar la IP, se puede realizar una búsqueda con Nmap:
 
 ## 1.3 Manejo básico del sistema
 
-Ahora solo es necesario conectarse a la RaspberryPi desde un terminal a través de SSH con el usuario pi:
+Ahora solo es necesario conectarse a la Raspberry Pi desde un terminal a través de SSH con el usuario pi:
 ```
 ~$ ssh pi@[IP]
 ```
@@ -81,7 +80,7 @@ Una vez se haya accedido al dispositivo ya se puede puede realizar la configurac
 
 El fabricante recomienda utilizar como máximo hasta 20mA por cada pin de alimentación y 51mA en total.
 
-Para utilizar la comunicaión con GPIO hace falta intalar el paquete de wiringpi.
+Para utilizar la comunicaión con el GPIO desde la línea de comandos hace falta intalar el paquete WiringPi. En Raspbian Jessie este paquete ya está instalado.
 ```
 $ sudo apt-get install wiringpi
 
@@ -97,7 +96,7 @@ $ gpio -g write x {0 | 1}
 Se necesitan los siguientes materiales adicionales:
 - Protoboard
 - Led
-- cables dupont hembra-macho
+- Cables dupont hembra-macho
 
 Conectar un cable de pines dupont a la protoboard con el Led. La parte positiva (ánodo) del Led es la patilla más larga. El cable que conecta con el cátodo (cátodo) del led, conectarlo a uno de los pines GND (tierra) de la placa, por ejemplo el pin 06; y el cátodo a un pin de 5 voltios, por ejemplo al pin GPIO18 (pin número 12).
 
@@ -220,7 +219,7 @@ $ python hall.py
 
 ## 5.2 PIR
 
-El sensor PIR (Pasive Infrared sensor) es un sensor electónico que mide la luz infrarroja.
+El sensor PIR (Pasive Infrared sensor) es un sensor electrónico que mide la luz infrarroja y sirve para detectar movimiento.
 
  ```
 (PIR)
