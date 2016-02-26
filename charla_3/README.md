@@ -1,4 +1,4 @@
-# Charla 3: Introducción a Python, Git e GitHub
+# Charla 3: Git avanzado y code review
 
 ## Guión
 
