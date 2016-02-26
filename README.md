@@ -68,6 +68,8 @@ Charla impartida por José Doval, Senior Backend Developer en SetPay, una de las
 
 Crearemos ramas y aprenderemos el flujo habitual de trabajo en un proyecto con Git, haremos pull requests y aprenderemos la importancia de hacer code review.
 
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
+
 ####<a name="semana3">**[Scrum/metodologías ágiles](https://www.gpul.org/indico/conferenceDisplay.py?confId=31)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
