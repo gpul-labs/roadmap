@@ -13,8 +13,11 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
   * [Scrum/metodologías ágiles](#semana3)
   * [Django Framework](#semana4)
   * [APIs REST](#semana5)
-  * [1º Hackathon](#semana6)
-  * [ReactJS](#semana7)
+  * [ES6, Babel e introducción a ReactJS](#semana6)
+  * [1º Hackathon](#semana7)
+  * [React JS y Redux](#semana8)
+  * [PyQGIS](#semana9)
+  * [Docker](#semana10)
 * [Comunidad (Preguntas y respuestas)](#comunidad)
 * [Estructura de las actividades](#estructura)
 * [Cómo colaborar](#colaborar)
@@ -107,22 +110,35 @@ Alejo es Software Engineer en Softtek, trabajando con todo tipo de tecnologías 
 
 Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que existen y veremos cómo podemos crear la nuestra propia para el proyecto, utilizando Django Rest Framework.
 
-####<a name="semana6">**1º Hackathon**</a>
+####<a name="semana6">**ES6, Babel e introducción a ReactJS**</a>
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
+
+*Fecha por definir*
+
+####<a name="semana7">**1º Hackathon**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 *Fecha por definir*
 
 Y después de tanta teoría pasaremos a la práctica con un hackathon en el que crearemos equipos, definiremos tareas a realizar y cada grupo se encargará de una parte pequeña del desarrollo del proyecto durante este día.
 
-####<a name="semana7">**React JS**</a>
+####<a name="semana8">**React JS y Redux**</a>
+
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
+
+*Fecha por definir*
+
+####<a name="semana9">**PyQGIS**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
 
 *Fecha por definir*
 
-Aprovechando las APIs REST creadas en la anterior sesión, aprenderemos los conceptos básicos de una SPA (Single Page Application) y crearemos una vista sencilla para nuestros datos, directamente en el navegador.
+####<a name="semana10">**Docker**</a>
+[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
+
+*Fecha por definir*
 
 
-[Ver material y videos](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
 
 ## <a name="comunidad">Comunidad (Preguntas y respuestas)</a>
 Si quieres participar en el desarrollo es posible que te surjan dudas sobre el código o el proyecto, es por eso por lo que hemos creado un lugar de preguntas y respuestas al estilo *Stack Overflow* para los GPUL Labs ;)
