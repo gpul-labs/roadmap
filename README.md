@@ -94,9 +94,11 @@ Todo proyecto necesita planificación por lo que nosotros haremos lo mismo vali�
 
 **Uxío Fuentefría**
 
+<a href="http://vippter.com"><img src="http://www.vippter.com/ow_recursos/vippter-firma-corporativa.png" width="48px" height="48px" /></a>
+
 *09/03/2016 - 18:00*
 
-Uxío es ingeniero de software ha trabajado como formador de Python en Academia Postal.
+Uxío es Ingeniero de Software en la startup Vippter, y también trabaja como formador de Python en Academia Postal.
 
 En esta charla aprenderemos los conceptos básicos para crear una sencilla interfaz web con Django, el framework web por excelencia en Python, con el fin de poder mostrar los datos que obtengamos de forma sencilla.
 
