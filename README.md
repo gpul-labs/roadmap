@@ -18,6 +18,7 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
   * [React JS y Redux](#semana8)
   * [PyQGIS](#semana9)
   * [Docker](#semana10)
+  * [2º Hackathon](#semana11)
 * [Comunidad (Preguntas y respuestas)](#comunidad)
 * [Estructura de las actividades](#estructura)
 * [Cómo colaborar](#colaborar)
@@ -110,34 +111,38 @@ Alejo es Software Engineer en Softtek, trabajando con todo tipo de tecnologías 
 
 Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que existen y veremos cómo podemos crear la nuestra propia para el proyecto, utilizando Django Rest Framework.
 
-####<a name="semana6">**ES6, Babel e introducción a ReactJS**</a>
+####<a name="semana6">**[ES6, Babel e introducción a ReactJS](https://www.gpul.org/indico/conferenceDisplay.py?confId=34)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 *Fecha por definir*
 
-####<a name="semana7">**1º Hackathon**</a>
+####<a name="semana7">**[1º Hackathon](https://www.gpul.org/indico/conferenceDisplay.py?confId=35)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 *Fecha por definir*
 
 Y después de tanta teoría pasaremos a la práctica con un hackathon en el que crearemos equipos, definiremos tareas a realizar y cada grupo se encargará de una parte pequeña del desarrollo del proyecto durante este día.
 
-####<a name="semana8">**React JS y Redux**</a>
+####<a name="semana8">**[React JS y Redux](https://www.gpul.org/indico/conferenceDisplay.py?confId=36)**</a>
 
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 *Fecha por definir*
 
-####<a name="semana9">**PyQGIS**</a>
+####<a name="semana9">**[PyQGIS](https://www.gpul.org/indico/conferenceDisplay.py?confId=37)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
 
 *Fecha por definir*
 
-####<a name="semana10">**Docker**</a>
+####<a name="semana10">**[Docker](https://www.gpul.org/indico/conferenceDisplay.py?confId=38)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
 
 *Fecha por definir*
 
+####<a name="semana11">**[2º Hackathon](https://www.gpul.org/indico/conferenceDisplay.py?confId=39)**</a>
+[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
+
+*Fecha por definir*
 
 
 ## <a name="comunidad">Comunidad (Preguntas y respuestas)</a>
