@@ -94,7 +94,7 @@ Todo proyecto necesita planificación por lo que nosotros haremos lo mismo vali�
 
 **Uxío Fuentefría**
 
-<a href="http://vippter.com"><img src="http://www.vippter.com/ow_recursos/vippter-firma-corporativa.png" width="48px" height="48px" /></a>
+<img src="http://www.vippter.com/ow_recursos/vippter-firma-corporativa.png" width="48px" height="48px" />
 
 *09/03/2016 - 18:00*
 
@@ -106,6 +106,8 @@ En esta charla aprenderemos los conceptos básicos para crear una sencilla inter
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 **Alejo Pacín**
+
+<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/gpul.png" width="48px" height="48px" />
 
 *16/03/2016 - 18:00*
 
@@ -154,7 +156,7 @@ Si quieres participar en el desarrollo es posible que te surjan dudas sobre el c
 
 ## <a name="estructura">Estructura de las actividades</a>
 Ya que en la vida real te vas a tener que enfrentar a los problemas de forma práctica y no escuchando a un ponente, queremos que todas las actividades sean eminentemente prácticas.
-Un rato de **conceptos teóricos (45 - 90 mins)** y luego a currar en un proyecto real, todas las actividades estarán enfocadas a aplicar los conocimientos sobre un proyecto que se colgará en el siguiente [repositorio de github](https://github.com/gpul-labs). 
+Un rato de **conceptos teóricos (45 - 90 mins)** y luego a currar en un proyecto real, todas las actividades estarán enfocadas a aplicar los conocimientos sobre un proyecto que se colgará en el siguiente [repositorio de github](https://github.com/gpul-labs).
 
 Como nuestros ponentes tienen libertad total, igual muchos intercalarán ratos teóricos cortos con ratos prácticos hasta una **duración máxima de 4 horas** por actividad (siempre con un descansillo, ¡por supuesto!)
 
@@ -170,4 +172,3 @@ Puedes:
 Y por supuesto estamos abiertos a todo tipo de sugerencias y colaboraciones!
 
 ----------
-
