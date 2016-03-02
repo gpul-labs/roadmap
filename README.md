@@ -107,7 +107,7 @@ En esta charla aprenderemos los conceptos básicos para crear una sencilla inter
 
 **Alejo Pacín**
 
-<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/gpul.png" width="48px" height="48px" />
+<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/gpul.png" width="85px" height="60px" />
 
 *16/03/2016 - 18:00*
 
