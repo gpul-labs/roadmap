@@ -81,13 +81,14 @@ Crearemos ramas y aprenderemos el flujo habitual de trabajo en un proyecto con G
 
 <img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/agilegalicia.jpg" width="77px" height="22px" />
 
-
 *02/03/2016 - 18:00*
 
 Impartida por Carlos García, Full Stack Developer, amante de las metodologías ágiles de desarrollo, emprendedor y socio fundador de Popsports Apps.
 
 
 Todo proyecto necesita planificación por lo que nosotros haremos lo mismo valiéndonos de metodologías ágiles y creando tareas para nuestro proyecto y preparándolo para que cualquiera pueda contribuir.
+
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
 
 ####<a name="semana4">**[Django Framework](https://www.gpul.org/indico/conferenceDisplay.py?confId=32)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
