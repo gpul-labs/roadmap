@@ -119,30 +119,40 @@ Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que
 ####<a name="semana6">**[ES6, Babel e introducción a ReactJS](https://www.gpul.org/indico/conferenceDisplay.py?confId=34)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-*Fecha por definir*
+**Asís García, Román C. Coedo y David Barral**
+
+*30/03/2016 - 18:00*
+
+​Novedades de ES6 (o ES2015) y cómo utilizar Babel para empezar a utilizarlo en proyectos. ReactJS como librería de UI de aplicaciones y cómo aprovechar ES6 para desarrollar nuestro código React.
 
 ####<a name="semana7">**[1º Hackathon](https://www.gpul.org/indico/conferenceDisplay.py?confId=35)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-*Fecha por definir*
+*09/04/2016*
 
 Y después de tanta teoría pasaremos a la práctica con un hackathon en el que crearemos equipos, definiremos tareas a realizar y cada grupo se encargará de una parte pequeña del desarrollo del proyecto durante este día.
 
-####<a name="semana8">**[React JS y Redux](https://www.gpul.org/indico/conferenceDisplay.py?confId=36)**</a>
+####<a name="semana8">**[Redux y ReactJS](https://www.gpul.org/indico/conferenceDisplay.py?confId=36)**</a>
 
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-*Fecha por definir*
+**Asís García, Román C. Coedo y David Barral**
+
+*09/04/2016 - 18:00*
+
+Introducción a la librería Redux, un contenedor de estado predecible para desarollo de aplicaciones Javascript: cómo funciona, qué ventajas y herramientas aporta, y cómo integrarlo con ReactJS.
 
 ####<a name="semana9">**[PyQGIS](https://www.gpul.org/indico/conferenceDisplay.py?confId=37)**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-*Fecha por definir*
+**Luigi Pirelli**
+
+*13/04/2016 - 18:00*
 
 ####<a name="semana10">**[Docker](https://www.gpul.org/indico/conferenceDisplay.py?confId=38)**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-*Fecha por definir*
+*27/04/2016 - 18:00*
 
 ####<a name="semana11">**[2º Hackathon](https://www.gpul.org/indico/conferenceDisplay.py?confId=39)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
