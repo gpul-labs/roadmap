@@ -121,7 +121,7 @@ Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que
 
 **Asís García, Román C. Coedo y David Barral**
 
-<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/trabe.png" width="85px" height="60px" />
+<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/trabe.png" width="80px" height="40px" />
 
 *30/03/2016 - 18:00*
 
@@ -133,7 +133,7 @@ Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que
 
 **Asís García, Román C. Coedo y David Barral**
 
-<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/trabe.png" width="85px" height="60px" />
+<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/trabe.png" width="80px" height="40px" />
 
 *06/04/2016 - 18:00*
 
