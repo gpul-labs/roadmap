@@ -14,8 +14,8 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
   * [Django Framework](#semana4)
   * [APIs REST](#semana5)
   * [ES6, Babel e introducción a ReactJS](#semana6)
-  * [1º Hackathon](#semana7)
   * [React JS y Redux](#semana8)
+  * [1º Hackathon](#semana7)
   * [PyQGIS](#semana9)
   * [Docker](#semana10)
   * [2º Hackathon](#semana11)
@@ -121,16 +121,11 @@ Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que
 
 **Asís García, Román C. Coedo y David Barral**
 
+<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/trabe.png" width="85px" height="60px" />
+
 *30/03/2016 - 18:00*
 
 ​Novedades de ES6 (o ES2015) y cómo utilizar Babel para empezar a utilizarlo en proyectos. ReactJS como librería de UI de aplicaciones y cómo aprovechar ES6 para desarrollar nuestro código React.
-
-####<a name="semana7">**[1º Hackathon](https://www.gpul.org/indico/conferenceDisplay.py?confId=35)**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
-
-*09/04/2016*
-
-Y después de tanta teoría pasaremos a la práctica con un hackathon en el que crearemos equipos, definiremos tareas a realizar y cada grupo se encargará de una parte pequeña del desarrollo del proyecto durante este día.
 
 ####<a name="semana8">**[Redux y ReactJS](https://www.gpul.org/indico/conferenceDisplay.py?confId=36)**</a>
 
@@ -138,9 +133,18 @@ Y después de tanta teoría pasaremos a la práctica con un hackathon en el que 
 
 **Asís García, Román C. Coedo y David Barral**
 
-*09/04/2016 - 18:00*
+<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/trabe.png" width="85px" height="60px" />
+
+*06/04/2016 - 18:00*
 
 Introducción a la librería Redux, un contenedor de estado predecible para desarollo de aplicaciones Javascript: cómo funciona, qué ventajas y herramientas aporta, y cómo integrarlo con ReactJS.
+
+####<a name="semana7">**[1º Hackathon](https://www.gpul.org/indico/conferenceDisplay.py?confId=35)**</a>
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
+
+*09/04/2016*
+
+Y después de tanta teoría pasaremos a la práctica con un hackathon en el que crearemos equipos, definiremos tareas a realizar y cada grupo se encargará de una parte pequeña del desarrollo del proyecto durante este día.
 
 ####<a name="semana9">**[PyQGIS](https://www.gpul.org/indico/conferenceDisplay.py?confId=37)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
