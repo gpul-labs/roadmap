@@ -121,7 +121,7 @@ Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que
 
 **Asís García, Román C. Coedo y David Barral**
 
-<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/trabe.png" width="80px" height="40px" />
+<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/trabe.png" width="90px" height="40px" />
 
 *30/03/2016 - 18:00*
 
@@ -133,25 +133,27 @@ Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que
 
 **Asís García, Román C. Coedo y David Barral**
 
-<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/trabe.png" width="80px" height="40px" />
+<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/trabe.png" width="90px" height="40px" />
 
 *06/04/2016 - 18:00*
 
 Introducción a la librería Redux, un contenedor de estado predecible para desarollo de aplicaciones Javascript: cómo funciona, qué ventajas y herramientas aporta, y cómo integrarlo con ReactJS.
 
-####<a name="semana7">**[1º Hackathon](https://www.gpul.org/indico/conferenceDisplay.py?confId=35)**</a>
+####<a name="semana7">**[1º Hackathon](https://labs.gpul.org/hackathon.html)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 *09/04/2016*
 
-Y después de tanta teoría pasaremos a la práctica con un hackathon en el que crearemos equipos, definiremos tareas a realizar y cada grupo se encargará de una parte pequeña del desarrollo del proyecto durante este día.
+Y después de tanta teoría pasaremos a la práctica con un hackathon en el que crearemos equipos, haremos una lluvia de ideas con proyectos a realizar y cada equipo escogerá uno de ellos para realizar un prototipo a lo largo del día.
+
+Al final de la tarde cada equipo contará su proyecto al resto y mostrará una pequeña demo y los mejores igual tienen algún premio ;)
 
 ####<a name="semana9">**[PyQGIS](https://www.gpul.org/indico/conferenceDisplay.py?confId=37)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 **Luigi Pirelli**
 
-<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/boundless.png" width="77px" height="22px" />
+<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/boundless.png" width="95px" height="22px" />
 
 *13/04/2016 - 18:00*
 
