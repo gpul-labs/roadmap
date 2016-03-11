@@ -151,6 +151,8 @@ Y después de tanta teoría pasaremos a la práctica con un hackathon en el que 
 
 **Luigi Pirelli**
 
+<img src="https://raw.githubusercontent.com/gpul-labs/roadmap/master/img/partners/boundless.png" width="77px" height="22px" />
+
 *13/04/2016 - 18:00*
 
 ####<a name="semana10">**[Docker](https://www.gpul.org/indico/conferenceDisplay.py?confId=38)**</a>
