@@ -1,0 +1,67 @@
+{% extends "core/index.html" %}
+{% block title %}Raspberries{% endblock %}
+{% block head%}
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js'></script>
+<script>
+function drawChart(id, myData) {
+	var ctx = document.getElementById(id).getContext("2d");
+	var data = {
+		labels: myData.map(e => ''),
+	    datasets: [
+		        {
+				            label: "My First dataset",
+				            fillColor: "rgba(220,220,220,0.2)",
+				            strokeColor: "rgba(220,220,220,1)",
+				            pointColor: "rgba(220,220,220,1)",
+				            pointStrokeColor: "#fff",
+				            pointHighlightFill: "#fff",
+				            pointHighlightStroke: "rgba(220,220,220,1)",
+							data: myData
+				        }
+		    ]
+	};
+	var myChart = new Chart(ctx).Line(data);
+}
+
+$(function() {
+	var myData = {{ data_list_json | safe }}
+	drawChart('temperature-chart', myData.filter(e => e.fields.name == 'TEMPERATURE').map(e => e.fields.value));
+	drawChart('humidity-chart', myData.filter(e => e.fields.name == 'HUMIDITY').map(e => e.fields.value));
+});
+</script>
+{% endblock %}
+{% block content %}
+<div class='page-header'>
+	<h1>Raspberry data</h1>
+</div>
+<div class='row'>
+	<div class='col-md-6'>
+		<canvas id="temperature-chart"></canvas>
+	</div>
+	<div class='col-md-6'>
+		<canvas id="humidity-chart"></canvas>
+	</div>
+</div>
+<div class='row'>
+<div class='col-md-12'>
+<table class='table table-bordered table-striped'>
+	<thead>
+		<tr>
+			<th>Created</th>
+			<th>Name</th>
+			<th>Value</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for data in data_list %}
+		<tr>
+			<td>{{ data.created }}</td>
+			<td>{{ data.name }}</td>
+			<td>{{ data.value}}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+</div>
+</div>
+{% endblock %}

@@ -1,0 +1,40 @@
+{% extends "core/index.html" %}
+{% load staticfiles %}
+{% block title %}Raspberries{% endblock %}
+{% block head%}
+<script src="{% static 'core/js/smoothie.js' %}"></script>
+<script>
+function hexToRgb(hex) {
+	// Expand shorthand form (e.g. "03F") to full form (e.g. "0033FF")
+	var shorthandRegex = /^#?([a-f\d])([a-f\d])([a-f\d])$/i;
+	hex = hex.replace(shorthandRegex, function(m, r, g, b) {
+		return r + r + g + g + b + b;
+	});
+
+	var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+	return result ? {
+		red: parseInt(result[1], 16),
+		green: parseInt(result[2], 16),
+		blue: parseInt(result[3], 16)
+	} : null;
+}
+$(function() {
+	var raspberryUrl = 'http://{{ object.ip }}:1337/color/';
+	$("#color_picker").change(function(x) {
+		var colors = hexToRgb(this.value)
+		var url = raspberryUrl + colors.red + '/' + colors.green + '/' + colors.blue;
+		$.get(url);
+	});
+});
+</script>
+{% endblock %}
+{% block content %}
+<div class='page-header'>
+	<h1>Raspberries</h1>
+</div>
+<div class='row'>
+	<div class='col-md-4'>
+		<input id="color_picker" type="color"/>
+	</div>
+</div>
+{% endblock %}

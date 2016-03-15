@@ -1,0 +1,33 @@
+{% extends "core/index.html" %}
+{% block title %}Raspberries{% endblock %}
+{% block content %}
+<div class='page-header'>
+	<h1>Raspberries</h1>
+</div>
+<div class='row'>
+<div class='col-md-12'>
+<table class='table table-bordered table-striped'>
+	<thead>
+		<tr>
+			<th>Ip</th>
+			<th>Mac</th>
+			<th>Hostname</th>
+			<th>Data</th>
+			<th>Color</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for raspberry in object_list %}
+		<tr>
+			<td>{{ raspberry.ip }}</td>
+			<td>{{ raspberry.mac }}</td>
+			<td>{{ raspberry.hostname }}</td>
+			<td><li><a href="{% url 'raspberry-detail' raspberry.id %}">Data</a></li></td>
+			<td><li><a href="{% url 'raspberry-led-color' raspberry.id %}">Color</a></li></td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+</div>
+</div>
+{% endblock %}
