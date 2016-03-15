@@ -160,7 +160,12 @@ Al final de la tarde cada equipo contará su proyecto al resto y mostrará una p
 ####<a name="semana10">**[Docker](https://www.gpul.org/indico/conferenceDisplay.py?confId=38)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
+**Javier Gómez y Francisco Maseda**
+
 *27/04/2016 - 18:00*
+
+Nesta charla vamos a presentar a tecnoloxía de containerización de Docker así como as ideas e o software base que a fan posible. Dada a sua orientación práctica, máis da metade da charla estará adicada a mostrar a utilización das ferramentas do entorno Docker mediante exemplos prácticos.
+
 
 ####<a name="semana11">**[2º Hackathon](https://www.gpul.org/indico/conferenceDisplay.py?confId=39)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
