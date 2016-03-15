@@ -162,6 +162,8 @@ Al final de la tarde cada equipo contará su proyecto al resto y mostrará una p
 
 **Javier Gómez y Francisco Maseda**
 
+<img src="https://github.com/gpul-labs/roadmap/blob/master/img/partners/prefapp.png" width="60px" height="60px" />
+
 *27/04/2016 - 18:00*
 
 Nesta charla vamos a presentar a tecnoloxía de containerización de Docker así como as ideas e o software base que a fan posible. Dada a sua orientación práctica, máis da metade da charla estará adicada a mostrar a utilización das ferramentas do entorno Docker mediante exemplos prácticos.
