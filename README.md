@@ -20,6 +20,7 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
   * [Docker](#semana10)
   * [2º Hackathon](#semana11)
 * [Comunidad (Preguntas y respuestas)](#comunidad)
+* [Código de conducta](#codigo)
 * [Estructura de las actividades](#estructura)
 * [Cómo colaborar](#colaborar)
 
@@ -179,6 +180,9 @@ Nesta charla vamos a presentar a tecnoloxía de containerización de Docker así
 Si quieres participar en el desarrollo es posible que te surjan dudas sobre el código o el proyecto, es por eso por lo que hemos creado un lugar de preguntas y respuestas al estilo *Stack Overflow* para los GPUL Labs ;)
 
 [Ir a la web](https://forums.gpul.org/)
+
+## <a name="codigo" href="https://github.com/gpul-labs/roadmap/blob/master/docs/codigodeconducta.md">Código de conducta</a>
+Cómo todo buen evento, en los **Labs** también tenemos un código de conducta que todos nuestros asistentes deben seguir, si tienes un minuto puedes echarle un ojo en el link.
 
 ## <a name="estructura">Estructura de las actividades</a>
 Ya que en la vida real te vas a tener que enfrentar a los problemas de forma práctica y no escuchando a un ponente, queremos que todas las actividades sean eminentemente prácticas.
