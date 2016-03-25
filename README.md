@@ -158,7 +158,7 @@ Al final de la tarde cada equipo contará su proyecto al resto y mostrará una p
 
 *13/04/2016 - 18:00*
 
-Taller practico sobre [QGIS](www.qgis.org) y como hacerse un plugin en Python.
+Taller practico sobre [QGIS](https://www.qgis.org) y como hacerse un plugin en Python.
 QGIS es un [SIG](https://es.wikipedia.org/wiki/Sistema_de_informaci%C3%B3n_geogr%C3%A1fica) de software libre de mas exito en el mundo.
 
 Contenido del taller:
