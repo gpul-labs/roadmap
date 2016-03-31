@@ -104,6 +104,8 @@ Uxío es Ingeniero de Software en la startup Vippter, y también trabaja como fo
 
 En esta charla aprenderemos los conceptos básicos para crear una sencilla interfaz web con Django, el framework web por excelencia en Python, con el fin de poder mostrar los datos que obtengamos de forma sencilla.
 
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
+
 ####<a name="semana5">**[APIs REST](https://www.gpul.org/indico/conferenceDisplay.py?confId=33)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
@@ -116,6 +118,8 @@ En esta charla aprenderemos los conceptos básicos para crear una sencilla inter
 Alejo es Software Engineer en Softtek, trabajando con todo tipo de tecnologías y con experiencia en el desarrollo de servicios web y APIs REST.
 
 Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que existen y veremos cómo podemos crear la nuestra propia para el proyecto, utilizando Django Rest Framework.
+
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
 
 ####<a name="semana6">**[ES6, Babel e introducción a ReactJS](https://www.gpul.org/indico/conferenceDisplay.py?confId=34)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
