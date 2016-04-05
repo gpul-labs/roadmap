@@ -132,6 +132,8 @@ Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que
 
 ​Novedades de ES6 (o ES2015) y cómo utilizar Babel para empezar a utilizarlo en proyectos. ReactJS como librería de UI de aplicaciones y cómo aprovechar ES6 para desarrollar nuestro código React.
 
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
+
 ####<a name="semana8">**[Redux y ReactJS](https://www.gpul.org/indico/conferenceDisplay.py?confId=36)**</a>
 
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
@@ -143,6 +145,8 @@ Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que
 *06/04/2016 - 18:00*
 
 Introducción a la librería Redux, un contenedor de estado predecible para desarollo de aplicaciones Javascript: cómo funciona, qué ventajas y herramientas aporta, y cómo integrarlo con ReactJS.
+
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
 
 ####<a name="semana7">**[1º Hackathon](https://labs.gpul.org/hackathon.html)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
