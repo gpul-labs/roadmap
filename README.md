@@ -19,6 +19,7 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
   * [PyQGIS](#semana9)
   * [Docker](#semana10)
   * [2º Hackathon](#semana11)
+  * [CartoDB](#semana12)
 * [Comunidad (Preguntas y respuestas)](#comunidad)
 * [Código de conducta](#codigo)
 * [Estructura de las actividades](#estructura)
@@ -190,9 +191,17 @@ Nesta charla vamos a presentar a tecnoloxía de containerización de Docker así
 
 
 ####<a name="semana11">**[2º Hackathon](https://www.gpul.org/indico/conferenceDisplay.py?confId=39)**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-*Fecha por definir*
+*30/04/2016*
+
+####<a name="semana12">**[CartoDB](https://www.gpul.org/indico/conferenceDisplay.py?confId=40)**</a>
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
+
+****
+
+*04/05/2016 - 18:00*
+
 
 
 ## <a name="comunidad">Comunidad (Preguntas y respuestas)</a>
