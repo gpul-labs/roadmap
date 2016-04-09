@@ -19,7 +19,9 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
   * [PyQGIS](#semana9)
   * [Docker](#semana10)
   * [2º Hackathon](#semana11)
+  * [CartoDB](#semana12)
 * [Comunidad (Preguntas y respuestas)](#comunidad)
+* [Código de conducta](#codigo)
 * [Estructura de las actividades](#estructura)
 * [Cómo colaborar](#colaborar)
 
@@ -103,6 +105,8 @@ Uxío es Ingeniero de Software en la startup Vippter, y también trabaja como fo
 
 En esta charla aprenderemos los conceptos básicos para crear una sencilla interfaz web con Django, el framework web por excelencia en Python, con el fin de poder mostrar los datos que obtengamos de forma sencilla.
 
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
+
 ####<a name="semana5">**[APIs REST](https://www.gpul.org/indico/conferenceDisplay.py?confId=33)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
@@ -116,6 +120,8 @@ Alejo es Software Engineer en Softtek, trabajando con todo tipo de tecnologías 
 
 Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que existen y veremos cómo podemos crear la nuestra propia para el proyecto, utilizando Django Rest Framework.
 
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
+
 ####<a name="semana6">**[ES6, Babel e introducción a ReactJS](https://www.gpul.org/indico/conferenceDisplay.py?confId=34)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
@@ -126,6 +132,8 @@ Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que
 *30/03/2016 - 18:00*
 
 ​Novedades de ES6 (o ES2015) y cómo utilizar Babel para empezar a utilizarlo en proyectos. ReactJS como librería de UI de aplicaciones y cómo aprovechar ES6 para desarrollar nuestro código React.
+
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
 
 ####<a name="semana8">**[Redux y ReactJS](https://www.gpul.org/indico/conferenceDisplay.py?confId=36)**</a>
 
@@ -138,6 +146,8 @@ Aprenderemos conceptos básicos de qué es una APIs REST, los diversos tipos que
 *06/04/2016 - 18:00*
 
 Introducción a la librería Redux, un contenedor de estado predecible para desarollo de aplicaciones Javascript: cómo funciona, qué ventajas y herramientas aporta, y cómo integrarlo con ReactJS.
+
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
 
 ####<a name="semana7">**[1º Hackathon](https://labs.gpul.org/hackathon.html)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
@@ -157,6 +167,17 @@ Al final de la tarde cada equipo contará su proyecto al resto y mostrará una p
 
 *13/04/2016 - 18:00*
 
+Taller practico sobre [QGIS](https://www.qgis.org) y como hacerse un plugin en Python.
+QGIS es un [SIG](https://es.wikipedia.org/wiki/Sistema_de_informaci%C3%B3n_geogr%C3%A1fica) de software libre de mas exito en el mundo.
+
+Contenido del taller:
+* Que es un SIG
+* La historia de QGIS y como se desarrolla
+* El evento [SIGTE](http://www.sigte.udg.edu/jornadassiglibre/en/) de Girona
+* Las API de QGIS y como orientarse
+* Desarrollar un plugin
+
+
 ####<a name="semana10">**[Docker](https://www.gpul.org/indico/conferenceDisplay.py?confId=38)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
@@ -170,15 +191,26 @@ Nesta charla vamos a presentar a tecnoloxía de containerización de Docker así
 
 
 ####<a name="semana11">**[2º Hackathon](https://www.gpul.org/indico/conferenceDisplay.py?confId=39)**</a>
-[![Stories in Ready](https://img.shields.io/badge/status-pendiente%20de%20ponente-yellow.svg)]()
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-*Fecha por definir*
+*30/04/2016*
+
+####<a name="semana12">**[CartoDB](https://www.gpul.org/indico/conferenceDisplay.py?confId=40)**</a>
+[![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
+
+****
+
+*04/05/2016 - 18:00*
+
 
 
 ## <a name="comunidad">Comunidad (Preguntas y respuestas)</a>
 Si quieres participar en el desarrollo es posible que te surjan dudas sobre el código o el proyecto, es por eso por lo que hemos creado un lugar de preguntas y respuestas al estilo *Stack Overflow* para los GPUL Labs ;)
 
 [Ir a la web](https://forums.gpul.org/)
+
+## <a name="codigo" href="https://github.com/gpul-labs/roadmap/blob/master/docs/codigodeconducta.md">Código de conducta</a>
+Cómo todo buen evento, en los **Labs** también tenemos un código de conducta que todos nuestros asistentes deben seguir, si tienes un minuto puedes echarle un ojo en el link.
 
 ## <a name="estructura">Estructura de las actividades</a>
 Ya que en la vida real te vas a tener que enfrentar a los problemas de forma práctica y no escuchando a un ponente, queremos que todas las actividades sean eminentemente prácticas.
