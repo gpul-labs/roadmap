@@ -15,7 +15,7 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
   * [APIs REST](#semana5)
   * [ES6, Babel e introducción a ReactJS](#semana6)
   * [React JS y Redux](#semana8)
-  * [1º Hackathon](#semana7)
+  * [Hackathon IoT](#semana7)
   * [PyQGIS](#semana9)
   * [Docker](#semana10)
   * [Free Software Hackathon](#semana11)
@@ -149,7 +149,7 @@ Introducción a la librería Redux, un contenedor de estado predecible para desa
 
 [Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
 
-####<a name="semana7">**[1º Hackathon](https://labs.gpul.org/hackathon.html)**</a>
+####<a name="semana7">**[Hackathon IoT](https://labs.gpul.org/hackathon.html)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 *09/04/2016*
