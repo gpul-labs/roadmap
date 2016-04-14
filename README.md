@@ -190,10 +190,14 @@ Contenido del taller:
 Nesta charla vamos a presentar a tecnoloxía de containerización de Docker así como as ideas e o software base que a fan posible. Dada a sua orientación práctica, máis da metade da charla estará adicada a mostrar a utilización das ferramentas do entorno Docker mediante exemplos prácticos.
 
 
-####<a name="semana11">**[2º Hackathon](https://www.gpul.org/indico/conferenceDisplay.py?confId=39)**</a>
+####<a name="semana11">**[Free Software Hackathon](https://labs.gpul.org/hackathon.html)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
 *30/04/2016*
+
+¿Tienes una app en mente, un proyecto emprendedor o solo ganas de aprender mucho y pasarlo bien? Apúntate al hackathon de software libre en el que contaremos los proyectos que tenemos en mente, crearemos equipos y cada uno escogerá uno de ellos para realizar un prototipo a lo largo del día.
+
+Al final de la tarde cada equipo contará su proyecto al resto y mostrará una pequeña demo y los mejores igual tienen algún premio ;)
 
 ####<a name="semana12">**[CartoDB](https://www.gpul.org/indico/conferenceDisplay.py?confId=40)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
