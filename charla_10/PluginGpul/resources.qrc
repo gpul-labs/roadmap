@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/PluginGpul" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
