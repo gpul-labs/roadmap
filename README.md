@@ -18,7 +18,7 @@ Bienvenidos a los **GPUL Labs**, el evento en el que aprenderás de verdad a tra
   * [1º Hackathon](#semana7)
   * [PyQGIS](#semana9)
   * [Docker](#semana10)
-  * [2º Hackathon](#semana11)
+  * [Free Software Hackathon](#semana11)
   * [CartoDB](#semana12)
 * [Comunidad (Preguntas y respuestas)](#comunidad)
 * [Código de conducta](#codigo)
