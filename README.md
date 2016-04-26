@@ -204,7 +204,7 @@ Al final de la tarde cada equipo contará su proyecto al resto y mostrará una p
 
 **Andrés Maneiro**
 
-<img src="https://github.com/gpul-labs/roadmap/blob/master/img/partners/icarto.jpg" width="60px" height="60px" />
+<img src="https://github.com/gpul-labs/roadmap/blob/master/img/partners/icarto.jpg" width="180px" height="50px" />
 
 *04/05/2016 - 18:00*
 
