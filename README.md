@@ -202,9 +202,15 @@ Al final de la tarde cada equipo contará su proyecto al resto y mostrará una p
 ####<a name="semana12">**[CartoDB](https://www.gpul.org/indico/conferenceDisplay.py?confId=40)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
 
-****
+**Andrés Maneiro**
 
 *04/05/2016 - 18:00*
+
+En este taller, introduciremos CartoDB como plataforma de visualización de datos e inteligencia geoespacial.
+
+Realizaremos un repaso a las principales funcionalidades del [editor](https://cartodb.com/editor), a las [APIs de la plataforma](https://cartodb.com/platform/) , así como las novedades respecto al soporte para [BigData y análisis de datos multivariable](https://cartodb.com/deep-insights/).
+
+Finalizaremos el taller con un ejemplo práctico de uso de la plataforma.
 
 
 
