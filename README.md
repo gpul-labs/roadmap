@@ -177,6 +177,7 @@ Contenido del taller:
 * Las API de QGIS y como orientarse
 * Desarrollar un plugin
 
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
 
 ####<a name="semana10">**[Docker](https://www.gpul.org/indico/conferenceDisplay.py?confId=38)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
@@ -189,6 +190,7 @@ Contenido del taller:
 
 Nesta charla vamos a presentar a tecnoloxía de containerización de Docker así como as ideas e o software base que a fan posible. Dada a sua orientación práctica, máis da metade da charla estará adicada a mostrar a utilización das ferramentas do entorno Docker mediante exemplos prácticos.
 
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
 
 ####<a name="semana11">**[Free Software Hackathon](https://labs.gpul.org/hackathon.html)**</a>
 [![Stories in Ready](https://img.shields.io/badge/status-confirmada-green.svg)]()
@@ -214,6 +216,7 @@ Realizaremos un repaso a las principales funcionalidades del [editor](https://ca
 
 Finalizaremos el taller con un ejemplo práctico de uso de la plataforma.
 
+[Ver video y material](https://github.com/gpul-labs/roadmap/wiki/Material-de-actividades)
 
 
 ## <a name="comunidad">Comunidad (Preguntas y respuestas)</a>
