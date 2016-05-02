@@ -35,7 +35,7 @@ Onde se fala do impacto que a nova técnica da virtualización con containers te
    - Docker compose
      - Práctica: correndo unha app en varios containers
 
-# Charla 11: Containerización e docker
+## Recursos:
 
 - [Slides sobre containerización e docker](pdf/containerizacion_con_docker.pdf)
 - [Introduccion a docker, exemplos prácticos](pdf/docker_intro.pdf)
